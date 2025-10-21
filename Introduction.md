@@ -2,19 +2,14 @@
  # Context, significance, statement, viewpoint selection
  
  #
- Ai voice assitants, like Google Assistant, Alexa, and Siri are transforming how people use technology.These systems use natural language processing (NLP) and artificial intelligence (AI) to allow users to carry out a wide range of tasks with voice commands.Voice assitants used to be restricted to simple tasks like answering questions or setting alarms, but they have since developed the ability to control smart home appliances, help with navigation, and even make complex tasks like shopping or language translation easier.These technolgies are now becoming ever more significant in the technological world. This is demonstrated by their integration in the digital landscape.
-
-
-
-
+ Ai voice assitants, like Google Assistant, Alexa, and Siri are transforming how people use technology.These systems use natural language processing (NLP) and artificial intelligence (AI) to allow users to carry out a wide range of tasks with voice commands.Voice assitants used to be restricted to simple tasks like answering questions or setting alarms, but they have since developed the ability to control smart home appliances, help with navigation,and even makes complex tasks like shopping or language translation easier.These technolgies are now becoming ever more significant in the technological world.As we see them in our day to day lives.
+# significnce
+AI voice assitants has many significant implications in both consumer and professional areas. They streamline processes, save time and enhance users experiances by offering hands free control over an array of devices.From an accesibility stand point, voice assitants have made life very easy. For example people who have physical dissabilities, can interact with technology inew ways with just there voice. However, these new developments do come with critical challenges in important areas of tech. These areas inclide, data privacy, security and ethical concerns. As voice assitants become more advanced and widespread, understanding both the technical abilities and potential risks are crucial.
 
 
 
 
 # fix this
-Significance:
-AI voice assistants have significant implications in both consumer and professional settings. They streamline processes, save time, and enhance user experience by offering hands-free control over a range of devices. From an accessibility standpoint, voice assistants have made it possible for individuals with physical disabilities to interact with technology in new ways. However, their development also raises critical challenges in areas such as data privacy, security, and the ethical concerns associated with AI. As voice assistants become more advanced and ubiquitous, understanding both their technical capabilities and potential risks is crucial.
-
 Statement:
 This case study will examine the development and implications of AI voice assistants from both a logical and engineering perspective. It will analyze the technological foundations that make these systems work, along with the potential limitations and challenges that engineers face in creating such sophisticated systems. The study will explore how logical structures and engineering principles have shaped their capabilities, while also addressing the ethical and functional limitations.
 
