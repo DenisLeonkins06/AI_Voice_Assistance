@@ -25,7 +25,7 @@ AI talking era - full conversations
 
     2014 : Amazon Alexa and Echo revolutionized commercial space but mainly know for revolutionizing residental areas to make smart homes, thanks to the smart voice-activated functionality
 
-    2015 : Microsoft Cortana is a is a cloud-based personal assistant that operates outside the realm of standard voice-enabled AI. Cortana doesn't just understand voice commands and carry out tasks but is integrated for use across Microsoft's 365 suite of products
+    2015 : Microsoft Cortana is a cloud-based personal assistant that operates outside the realm of standard voice-enabled AI. Cortana doesn't just understand voice commands and carry out tasks but is integrated for use across Microsoft's 365 suite of products
 
 2020s : AI Assistants and Generative AI
 
