@@ -44,8 +44,9 @@ ________________________________________________________________________________
 2022 - OpenAI : The well known ChatGPT that revolutionized the use of AI
 
 References:
-https://www.openxcell.com/ai-assistant/#:~:text=Of%20AI%20Assistants-,1960s%20-%201970s%20-%20Introduction%20Of%20AI%20Assistants,2010s%20-%20Mainstream%20AI%20Assistant%20Adoption
-https://medium.com/geekculture/voice-assistant-timeline-50b3b07b48f7
-https://en.wikipedia.org/wiki/Jabberwacky
-https://en.wikipedia.org/wiki/Siri   
-https://www.businessinsider.com/reference/what-is-cortana
+Cristofaro, Matteo, and Pier Luigi Giardino. "Surfing the AI waves: the historical evolution of artificial intelligence in management and organizational studies and practices." Journal of Management History (Accessed: 7 November 2025).
+OpenXcell (n.d.) AI Assistant: Complete Guide to Evolution & Future Trends. Available at: https://www.openxcell.com/ai-assistant (Accessed: 7 November 2025).
+Geek Culture (2022) Voice assistant timeline. Medium. Available at: https://medium.com/geekculture/voice-assistant-timeline-50b3b07b48f7 (Accessed: 7 November 2025).
+‘Jabberwacky’ (n.d.) Wikipedia. Available at: https://en.wikipedia.org/wiki/Jabberwacky (Accessed: 27 November 2025).
+‘Siri’ (n.d.) Wikipedia. Available at: https://en.wikipedia.org/wiki/Siri (Accessed: 7 November 2025).
+Business Insider (n.d.) What is Cortana. Available at: https://www.businessinsider.com/reference/what-is-cortana (Accessed: 7 November 2025).
